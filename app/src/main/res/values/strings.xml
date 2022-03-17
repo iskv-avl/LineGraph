@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">LineGraph</string>
+
+    <string name="label_splash_prompt">by Isakov Andrey | for LUMI</string>
+
+    <string name="title_currency_details">%1$s graph</string>
+    <string name="label_currency_details_percent_up">+%.2f%%</string>
+    <string name="label_currency_details_percent_fall">-%.2f%%</string>
+    <string name="label_currency_details_dollar">$%.0f</string>
+
+    <string name="title_error">Ошибка</string>
+    <string name="error_not_enough">Не достаточно точек для постоения графика</string>
+
+    <string-array name="periods_array">
+        <item>1D</item>
+        <item>1W</item>
+        <item>1M</item>
+        <item>6M</item>
+        <item>1Y</item>
+    </string-array>
+
+</resources>

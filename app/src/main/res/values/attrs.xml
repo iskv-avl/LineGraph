@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="LineGraphView">
+        <attr name="isVisiblePeriodSwitcher" format="boolean"/>
+        <attr name="isVisibleGrid" format="boolean"/>
+        <attr name="isVisibleLegend" format="boolean"/>
+        <attr name="periodDrawable" format="reference"/>
+        <attr name="background" format="reference"/>
+    </declare-styleable>
+
+</resources>
